@@ -1,0 +1,51 @@
+[
+  {
+    "lead_id": "LEAD-0001",
+    "clinic_name": "Bright Smile Dental",
+    "clinic_type": "Dental Clinic",
+    "country": "United Kingdom",
+    "city": "London",
+    "address": "45 Baker Street, London, W1U 7AJ",
+    "phone_number": "+442079460321",
+    "email": "info@brightsmile.co.uk",
+    "website_available": true,
+    "website_url": "https://brightsmile.co.uk",
+    "doctor_owner_name": "Dr. Sarah Ahmed",
+    "social_media_links": [
+      "https://instagram.com/brightsmile",
+      "https://facebook.com/brightsmile"
+    ],
+    "appointment_method": "Phone Calls",
+    "automation_status": "Manual",
+    "google_rating": 4.7,
+    "reviews_count": 312,
+    "lead_priority": "High",
+    "notes": "No online booking detected. Strong candidate for AI booking system.",
+    "call_status": "Not Called",
+    "follow_up_date": null
+  },
+  {
+    "lead_id": "LEAD-0002",
+    "clinic_name": "Dubai Aesthetic Centre",
+    "clinic_type": "Aesthetic Clinic",
+    "country": "UAE",
+    "city": "Dubai",
+    "address": "Sheikh Zayed Rd, Dubai, UAE",
+    "phone_number": "+97143456789",
+    "email": null,
+    "website_available": true,
+    "website_url": "https://dubaiaesthetic.ae",
+    "doctor_owner_name": "Dr. Fatima Al Mansoori",
+    "social_media_links": [
+      "https://instagram.com/dubaiaesthetic"
+    ],
+    "appointment_method": "Website Booking Form",
+    "automation_status": "Semi Automated",
+    "google_rating": 4.5,
+    "reviews_count": 189,
+    "lead_priority": "Medium",
+    "notes": "Has contact form but no full booking system.",
+    "call_status": "Not Called",
+    "follow_up_date": null
+  }
+]

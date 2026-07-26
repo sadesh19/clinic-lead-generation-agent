@@ -1,0 +1,8 @@
+{
+  "locations": ["London", "Dubai", "Lahore"],
+  "clinic_types": ["Dental Clinic", "Aesthetic Clinic", "Skin Clinic"],
+  "min_rating": 4.0,
+  "max_results": 50,
+  "automation_filter": null,
+  "keywords": ["botox", "teeth whitening"]
+}
