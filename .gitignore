@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Node
+node_modules/
+package-lock.json
+
+# Outputs & Data
+outputs/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
